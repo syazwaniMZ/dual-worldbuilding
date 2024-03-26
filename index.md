@@ -1,9 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-# Worldbuilding HOME
+# Worldbuilding
 
 This site is for documenting worldbuilding.
 
