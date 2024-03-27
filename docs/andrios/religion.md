@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Religions
-nav_order: 2
+nav_order: 4
 parent: Andrios
 permalink: /docs/andrios/religion
 ---

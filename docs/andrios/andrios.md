@@ -4,25 +4,26 @@ title: Andrios
 nav_order: 2
 has_children: true
 has_toc: false
-permalink: /docs/andrios
+permalink: /docs/andrios/galandria
 ---
+
 # Andrios
 
-![](../../assets/images-andrios/map_andrios.jpg)
+Andrios is the name of continent in the southern-hemisphere of planet Hos, which has connections and portals to other planes of reality. The land was split by the sun god, driven by jealous rage, and then accidentally wounding the moon god, Nylmat. Tired and ashamed, the gods left the world, and the land irrevocably scarred by magic.
 
-Andrios is the name of continent in the southern-hemisphere of planet Hos, which has connections and portals to other planes of reality. The land was split during the **Sundering**.
+![](../../assets/images-andrios/map_andrios.jpg)
+<p style="text-align: center;">A worn map of Andrios continent.</p>
+
+
 
 
 ## History
-<sub>_Main article: [History of Andrios]({% link docs/andrios/history.md %})_</sub>
-
+<sup> _Main article: [History of Andrios]({% link docs/andrios/history.md %})_ </sup><br>
 There has been five distinct eras since the discovery of the continent: the Era of Settlers, the Dwarvern Era, the Cthonic Era, the Empyrean Era, and the most recent Sundered Era.
 
 ---
-
 ## Religion
-<sub>_Main article: [Religions of Andrios]({% link docs/andrios/religion.md %})_</sub>
-
+<sup> _Main article: [Religions of Andrios]({% link docs/andrios/religion.md %})_ </sup><br>
 The dieties of Andrios reign over multiple but distinct domains, which they gained authority over by syncretizing with other lesser gods.
 
 ### Primary Deities
@@ -32,7 +33,6 @@ The dieties of Andrios reign over multiple but distinct domains, which they gain
 - Nex, the Liberator
 
 ---
-
 ## Regions
 [Galandris Empire]({% link docs/andrios/galandris.md %})
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: History
-nav_order: 1
+nav_order: 3
 parent: Andrios
 permalink: /docs/andrios/history
 ---
@@ -45,5 +45,6 @@ The followers are left to fend for themselves after the gods leave Andrios. The 
 
 The Last Queen never married, so she took in orphans to become her heirs. After she passed, her heirs, Issac and Galandris fought over the throne, with Galandris as the victor and Issac cursed with lycanthropy.
 
+<br>
 
----
+[Back to the top](#history-of-andrios)
