@@ -10,5 +10,3 @@ Sunlit sets on earth, countless lifetimes from now. It is a post-scarcity world,
 
 Yet it is not utopic. People would still fight, kill and die from diseases and accidents. Parts of the earth reclaimed by wild nature are deadly to the unprepared. Extreme weather is the norm.
 
-![](../../assets/images-sunlit/map_sunlit.png)
-<p style="text-align: center;">A world map of Sunlit's earth.</p>
