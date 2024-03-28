@@ -8,7 +8,7 @@ permalink: /docs/andrios/andarm
 ---
 # Andarm Federation
 
-A federation of independent city states. Home to rough folks and rougher weather.
+A federation of independent city states. Temperate climate, and colorful people walks the streets.
 
 ## City States
 

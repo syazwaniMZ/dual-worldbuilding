@@ -10,9 +10,9 @@ permalink: /docs/andrios/galandris/galandria
 ---
 # City of Galandria
 
-![](../../../assets/images-andrios/map_Galandria_v4.png)
+Capital and the beating heart of the Galandris Empire. Centuries-old layers of limestone walls barricades the city against outsiders. The city is dotted with secret entrances into an underground network, home to the poor and the runaways.
 
-<sup>A city map of Galandria, with marked entryways into an underground network.</sup>
+![A city map of Galandria, with marked entryways into an underground network.](../../../assets/images-andrios/map_Galandria_v4.png)
 
 ### Theater Grove
 Where the artistes, and charming vagrants make their home.
@@ -33,6 +33,7 @@ There is a textile factory that houses over a hundred lace makers, mostly women,
 The story goes that a noble was killed in a horrific accident and his lover ran away scared of the creature he has become. Now his home has completely taken over for aeons, and what is left is a patch of proud tall trees that blooms amidst the busy city.
 
 Beneath a twisting tree lay a secret cafe, ran by an druidic gang called the Rings.
+
 
 
 <br>
