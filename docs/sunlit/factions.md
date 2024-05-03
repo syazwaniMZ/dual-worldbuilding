@@ -13,7 +13,7 @@ permalink: /docs/sunlit/factions
 
 After the fall of states, borders, and laws, came the question of how to organize society in this new world.
 
-![A symbol for the Arbitrators' faction: A sideway equal sign in indigo](../../../assets/images-sunlit/Faction-Arbitrators.png "Arbitrators Association")
+![A symbol for the Arbitrators' faction: A sideway equal sign in indigo](../../assets/images-sunlit/Faction-Arbitrators.png "Arbitrators Association")
 
 **Alias: Arbitrators**
 
@@ -24,7 +24,7 @@ They used to have their discussions open to the public to participate, but recen
 
 ---
 
-![A symbol for the Moralist' faction: An atomic model with purple outline](../../../assets/images-sunlit/Faction-Moralist.png "Bureau of Scientific Morals & Standards")
+![A symbol for the Moralist' faction: An atomic model with purple outline](../../assets/images-sunlit/Faction-Moralist.png "Bureau of Scientific Morals & Standards")
 
 **Alias: Moralists**
 
@@ -34,7 +34,7 @@ A loose alliance of intellectuals who congregate twice a cycle to discuss develo
 
 ---
 
-![A symbol for the Heirs of Lords' faction: A red flame that evokes a shape of a crown](../../../assets/images-sunlit/Faction-Heirs.png "Heirs of Lords")
+![A symbol for the Heirs of Lords' faction: A red flame that evokes a shape of a crown](../../assets/images-sunlit/Faction-Heirs.png "Heirs of Lords")
 
 **Alias: Heirs/Lords**
 The remnants of the City Lords, hellbent on restoring the glory days of their Extraction era reign. Their leaders, called the Lords, believe that might makes right, and that leadership and authority are needed to spearhead humanity to far greater heights. Some just want to hoard all the resources in the world. Their foot soldiers are called the Heirs. They are trained in the arts of Neurohack and disruptive machines.
@@ -42,7 +42,7 @@ The remnants of the City Lords, hellbent on restoring the glory days of their Ex
 
 ---
 
-![A symbol for the IRIS' faction: A black triangle](../../../assets/images-sunlit/Faction-Iris.png "IRIS")
+![A symbol for the IRIS' faction: A black triangle](../../assets/images-sunlit/Faction-Iris.png "IRIS")
 
 **Alias: Iris / The Engineers**
 **Notable Figure: Senior Supervisor Pearclaw**
@@ -53,7 +53,7 @@ Originated in Asadal, by cycle 472th of the Era of Concord, Iris now has presenc
 
 ---
 
-![A symbol for the Traders Commune's faction: A golden circle with a ring around the shape.](../../../assets/images-sunlit/Faction-Traders.png "Traders Commune")
+![A symbol for the Traders Commune's faction: A golden circle with a ring around the shape.](../../assets/images-sunlit/Faction-Traders.png "Traders Commune")
 
 **Alias: Traders**
 **Notable Figure: Purveyor Maylin**

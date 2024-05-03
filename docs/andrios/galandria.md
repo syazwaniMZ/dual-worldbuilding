@@ -12,7 +12,7 @@ permalink: /docs/andrios/galandris/galandria
 
 Capital and the beating heart of the Galandris Empire. Centuries-old layers of limestone walls barricades the city against outsiders. The city is dotted with secret entrances into an underground network, home to the poor and the runaways.
 
-![A city map of Galandria, with marked entryways into an underground network.](../../../assets/images-andrios/map_Galandria_v4.png)
+![A city map of Galandria, with marked entryways into an underground network.](../../assets/images-andrios/map_Galandria_v4.png)
 
 ### Theater Grove
 Where the artistes, and charming vagrants make their home.

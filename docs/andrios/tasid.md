@@ -7,7 +7,7 @@ permalink: /docs/andrios/tasid
 ---
 
 # Republic of Tasid
- Recently claimed itself to be a democratic power after overthrowing the previous government, both by words and blood, the Republic stands proud amongst wastelands and the frigid cold weather. Currently in truce with the Empire.
+ Recently claimed itself to be a democratic powKSer after overthrowing the previous government, both by words and blood, the Republic stands proud amongst wastelands and the frigid cold weather. Currently in truce with the Empire.
 
 ## Region
 ### Agral
