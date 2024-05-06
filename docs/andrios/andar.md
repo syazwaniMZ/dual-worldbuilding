@@ -17,7 +17,7 @@ permalink: /docs/andrios/andarm/andar
 ## City Layout
 The upper level of Deepak Height are home to royalties, nobility and intellects. The middle level is where the merchants, crafts people and the middle class mingle. In the depths, Rasatal housed the unwanted and the unsightly of societies.
 
-![](../../../../assets/images-andrios/map_andar.png)
+![A golden isometric map. Three levels separate Andar.](../../assets/images-andrios/map_andar.png "Andar Map")
 
 <p style="text-align: center;">A map of Andar, revealing layers of the city.</p>
 
