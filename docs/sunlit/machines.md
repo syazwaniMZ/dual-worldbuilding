@@ -10,33 +10,66 @@ permalink: /docs/sunlit/machines
 # Machines
 
 ## Bio-Tank
-
-![](../../assets/images-sunlit/Machine Bio-Tank.png)
+<img 
+    style="display: block;
+    padding-top: 10px;
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="../../assets/images-sunlit/Machine Bio-Tank.png"
+    alt="A see through glass tank with plants thriving inside, connected to a gas mask via pipe.">
 
 Perfect for any steady trek in a toxic atmosphere. The bio-tank will ensure you have plenty of air to escape the wild beasts, as long as you have light.
 
 ---
 ## Celbag
-
-![](../../assets/images-sunlit/Machine Celbag.png)
+<img 
+    style="display: block;
+    padding-top: 10px;
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="../../assets/images-sunlit/Machine Celbag.png"
+    alt="A glowing bag that looks very similar to a waterbag.">
 
 A soft-shelled energy container that can toggled to be a gentle heat source. Traders, couriers and traveling striders always have one in hand, in case they have to gather or exchange energy resources during long journeys.
 
 ---
 ## Echo-Brick
-![](../../assets/images-sunlit/Machine Echobrick.png)
+<img 
+    style="display: block;
+    padding-top: 10px;
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="../../assets/images-sunlit/Machine Echobrick.png"
+    alt="Bright yellow foldable machine that looks similar to books.">
 
 These foldable bricks were often found in buried bunkers. They contain encrypted messages from the ghosts of their former masters.
 
 ---
 ## Jellypad
-![](../../assets/images-sunlit/Machine Jellypad.png)
+<img 
+    style="display: block;
+    padding-top: 10px;
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="../../assets/images-sunlit/Machine Jellypad.png"
+    alt="A flip-phone machine, that's completely made of jelly.">
 
 A soft handheld computer, with jelly display.
 
 ---
 ## Linerider
-![](../../assets/images-sunlit/Machine Linerider.png)
+<img 
+    style="display: block;
+    padding-top: 10px;
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="../../assets/images-sunlit/Machine Linerider.png"
+    alt="Futuristic skating shoes without wheels.">
 
 Anti-gravity skating shoes for riding on your neighbor cables.
 
@@ -51,19 +84,40 @@ Anti-gravity skating shoes for riding on your neighbor cables.
 
 ---
 ## Scamper
-![](../../assets/images-sunlit/Machine Scamper.png)
+<img 
+    style="display: block;
+    padding-top: 10px;
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="../../assets/images-sunlit/Machine Scamper.png"
+    alt="A small cube-like robot, using a leaf as a hat.">
 
 You see them first before the Grazers arrive. Perhaps they are scouts. They generally avoid people but that does not mean they are shy.
 
 ---
 ## Scavenger
-![](../../assets/images-sunlit/Machine Scavenger.png)
+<img 
+    style="display: block;
+    padding-top: 10px;
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="../../assets/images-sunlit/Machine Scavenger.png"
+    alt="Lizardlike robot, with plasticky blue skin and no head.">
 
 It gathers battery cells and unattended sources of energy so it can form “eggs” and reproduce.
 
 ---
 ## Solarsail
-![](../../assets/images-sunlit/Machine Solarsail.png)
+<img 
+    style="display: block;
+    padding-top: 10px;
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="../../assets/images-sunlit/Machine Solarsail.png"
+    alt="A courier riding on a sail-like machine that flies in the air.">
 
 Powered by light, this vehicle could travel great distances quickly and quietly.
 

@@ -7,3 +7,4 @@ gem "just-the-docs", "0.8.1" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 gem 'wdm', '>= 0.1.0'
+gem "webrick", "~> 1.8"

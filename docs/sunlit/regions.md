@@ -8,8 +8,7 @@ permalink: /docs/sunlit/regions
 ---
 # The World Map
 
-![](../../../assets/images-sunlit/map_sunlit.png)
-<p style="text-align: center;">A world map of Sunlit's earth.</p>
+![Map of earth, with reduced landmass as tracked with the real world rising sea level in the further future.](../../../assets/images-sunlit/map_sunlit.png "Sunlit's Earth")
 
 # Regions
 
