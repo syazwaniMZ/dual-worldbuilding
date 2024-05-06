@@ -11,7 +11,7 @@ permalink: /docs/andrios/galandria
 
 Andrios is the name of continent in the southern-hemisphere of planet Hos, which has connections and portals to other planes of reality. The land was split by the sun god, driven by jealous rage, and then accidentally wounding the moon god, Nylmat. Tired and ashamed, the gods left the world, and the land irrevocably scarred by magic.
 
-![](../../assets/images-andrios/map-andrios.jpg)
+![](/assets/images-andrios/map-andrios.jpg)
 <p style="text-align: center;">A worn map of Andrios continent.</p>
 
 
