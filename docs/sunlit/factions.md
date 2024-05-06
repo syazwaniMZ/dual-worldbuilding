@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Factions
-nav_order: 13
+nav_order: 16
 parent: Sunlit
 has_children: false
 permalink: /docs/sunlit/factions

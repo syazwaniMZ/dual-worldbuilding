@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Humanity
-nav_order: 12
+nav_order: 15
 parent: Sunlit
 has_children: false
 permalink: /docs/sunlit/humanity

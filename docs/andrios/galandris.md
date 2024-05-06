@@ -60,7 +60,7 @@ The Empire is ruled by the **Court** which headed by an empress, aided by a clas
            margin-left: auto;
            margin-right: auto;
            width: 50%;"
-    src="../../assets/images-andrios/Galandris_Line.png" 
+    src="../../assets/images-andrios/Galandris-Line.png" 
     alt="A painting of Princess Elise, battleworn staring up to a glasswork of the Last Queen">
 
 <p style="text-align: center;">Succession of a new empress are always bloody.</p>

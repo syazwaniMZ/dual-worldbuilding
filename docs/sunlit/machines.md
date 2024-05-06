@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Machines
-nav_order: 14
+nav_order: 17
 parent: Sunlit
 has_children: false
 permalink: /docs/sunlit/machines
