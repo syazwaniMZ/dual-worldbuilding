@@ -17,14 +17,8 @@ permalink: /docs/andrios/andarm/andar
 ## City Layout
 The upper level of Deepak Height are home to royalties, nobility and intellects. The middle level is where the merchants, crafts people and the middle class mingle. In the depths, Rasatal housed the unwanted and the unsightly of societies.
 
+![](../../../../assets/images-andrios/map_andar.png)
 
-<img 
-    style="display: block;
-    padding-top: 10px;
-           margin-left: auto;
-           margin-right: auto;
-           width: 50%;"
-    src="../../assets/images-andrios/map_andar.png">
 <p style="text-align: center;">A map of Andar, revealing layers of the city.</p>
 
 ---
@@ -47,7 +41,7 @@ People have been found wandering aimlessly in Rasatal, with reduced memories and
 The main entrance is a door that can only be unlocked by lighting its censer which then creates an air pressure and whistles like a flute, and closing four palm-sized spaced out holes along the walls. It was a mechanism created to ensure no one goes in alone and unprepared.
 Inside, ogres make their home here, feasting on the creatures there and an unlucky passerby. The furthest end led to an ancient tomb, long forgotten.
 
-![](../../assets/images-andrios/abandoned_mine.png)
+![](../../../../assets/images-andrios/abandoned_mine.png)
 <p style="text-align: center;">A map of an abandoned mine, long disused and overtaken by pest and creatures.</p>
 
 **LAYOUT**
@@ -68,7 +62,7 @@ The tomb can be entered through Rasatal’s abandoned mine, or from an opening i
 Large tree roots overtook most of the structure, and red seawater pools in the lower levels. Aether, a powerful magical substance, grew on these roots.
 A coven of vampires recently took shelter in this tomb, blissfully unaware of the history of the tomb.
 
-![](../../assets/images-andrios/tomb_of_feast.png)
+![](../../../../assets/images-andrios/tomb_of_feast.png)
 <p style="text-align: center;">A map of the Tomb of Feast. Blood pools the ground.</p>
 
 **LAYOUT**
