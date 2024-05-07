@@ -24,7 +24,7 @@ The upper level of Deepak Height are home to royalties, nobility and intellects.
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="../../assets/images-andrios/map-andar.png"
+    src="../../../assets/images-andrios/map-andar.png"
     alt="Isometric map of a three-tier city, with a golden hue.">
 
 <p style="text-align: center;">A map of Andar, revealing layers of the city.</p>
@@ -47,7 +47,7 @@ People have been found wandering aimlessly in Rasatal, with reduced memories and
 ---
 ## Abandoned Mine
 
-![Abandoned Mine](../../assets/images-andrios/abandoned-mine.png)
+![Abandoned Mine](../../../assets/images-andrios/abandoned-mine.png)
 
 <p style="text-align: center;">A map of an abandoned mine, long disused and overtaken by pest and creatures.</p>
 
@@ -78,7 +78,7 @@ A coven of vampires recently took shelter in this tomb, blissfully unaware of th
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="../../assets/images-andrios/tomb-of-feast.png"
+    src="../../../assets/images-andrios/tomb-of-feast.png"
     alt="Labeled map of ancient dark tomb.">
 
 <p style="text-align: center;">A map of the Tomb of Feast. Blood pools the ground.</p>

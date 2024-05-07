@@ -9,7 +9,7 @@ permalink: /docs/sunlit/regions/pepanggil
 ---
 # Pepanggil Town
 
-![A colorful river town, split by a river and surrounded by greenery and mangroves.](../../assets/images-sunlit/mapSayangHeartland1.png)
+![A colorful river town, split by a river and surrounded by greenery and mangroves.](../../../assets/images-sunlit/mapSayangHeartland1.png)
 <p style="text-align: center;">A town map of Pepanggil.</p>
 
 **Region:** Sayang <br>

@@ -18,7 +18,7 @@ Capital and the beating heart of the Galandris Empire. Centuries-old layers of l
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="../../assets/images-andrios/map-Galandria-v4.png" 
+    src="../../../assets/images-andrios/map-Galandria-v4.png" 
     alt="Elaborate Galandria city map. With legends and notations by characters that live in the world.">
     
 <p style="text-align: center;">A city map of Galandria, with marked entryways into an underground network.</p>
