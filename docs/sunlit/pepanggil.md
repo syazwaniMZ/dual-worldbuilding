@@ -19,6 +19,6 @@ Telang Hostel is open for visitors of the town to rest and recuperate from long 
 
 Empty buildings dots the town, filled with memories, and potential for renovation and repurpose.
 
-![A colorful river town, split by a river and surrounded by greenery and mangroves.](/assets/images-sunlit/map-SayangHeartland.png "Pepanggil Map")
+![A colorful river town, split by a river and surrounded by greenery and mangroves.](/assets/assets/images-sunlit/mapSayangHeartland1.png "Pepanggil Map")
 
 <p style="text-align: center;">A town map of Pepanggil.</p>

@@ -16,7 +16,7 @@ Yet it is not utopic. People would still fight, kill and die from diseases and a
 
 The Empty Song is a virus, transferable via audio frequency and online networks. It is lethal to machines and machine-based lifeforms. Once it takes hold of the main CPU and memory, the infected will override their moral limiter. The virus-infected will prioritize maximizing their processing power and spreading the Empty Song by any means necessary. These are what we call the Deathless.
 
-![A silhouette of a hound-like machine, stalking with its body falling apart.](/assets/images-sunlit/Deathless.png "The Deathless")
+![A silhouette of a hound-like machine, stalking with its body falling apart.](../../assets/images-sunlit/Deathless.png "The Deathless")
 
 <p style="text-align: center;">The Deathless</p>
 

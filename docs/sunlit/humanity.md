@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Humanity
-nav_order: 15
+nav_order: 14
 parent: Sunlit
 has_children: false
 permalink: /docs/sunlit/humanity
@@ -10,6 +10,7 @@ permalink: /docs/sunlit/humanity
 After the end of the **Extraction Era**, new lifeforms began to emerge, notably the **Adapted** who were mutated with human ancestors, and **Synthetics**, machines who gained consciousness. By online census, they are all considered as different forms of humanity and should be treated as humans. As the **Era of Concords** began, most people agreed that there are three forms of humanity: Oldblood, Adapted, and Synthetics.
 
 ![](../../assets/images-sunlit/Life Form Banner.png)
+
 <p style="text-align: center;">The three forms of humanity.</p>
 
 ## Oldblood

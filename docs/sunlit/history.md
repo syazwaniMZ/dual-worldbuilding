@@ -1,7 +1,7 @@
 ---
 layout: default
 title: History
-nav_order: 10
+nav_order: 13
 parent: Sunlit
 has_children: false
 permalink: /docs/sunlit/history

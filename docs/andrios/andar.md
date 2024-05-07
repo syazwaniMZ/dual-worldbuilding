@@ -18,7 +18,7 @@ permalink: /docs/andrios/andarm/andar
 ## City Layout
 The upper level of Deepak Height are home to royalties, nobility and intellects. The middle level is where the merchants, crafts people and the middle class mingle. In the depths, Rasatal housed the unwanted and the unsightly of societies.
 
-![](/assets/images-andrios/map-andar.png)
+![Andar Map](../../assets/images-andrios/map-andar.png)
 
 
 <p style="text-align: center;">A map of Andar, revealing layers of the city.</p>
@@ -43,7 +43,7 @@ People have been found wandering aimlessly in Rasatal, with reduced memories and
 The main entrance is a door that can only be unlocked by lighting its censer which then creates an air pressure and whistles like a flute, and closing four palm-sized spaced out holes along the walls. It was a mechanism created to ensure no one goes in alone and unprepared.
 Inside, ogres make their home here, feasting on the creatures there and an unlucky passerby. The furthest end led to an ancient tomb, long forgotten.
 
-![](/assets/images-andrios/abandoned-mine.png)
+![Abandoned Mine](../../assets/images-andrios/abandoned-mine.png)
 
 <p style="text-align: center;">A map of an abandoned mine, long disused and overtaken by pest and creatures.</p>
 
@@ -71,7 +71,7 @@ A coven of vampires recently took shelter in this tomb, blissfully unaware of th
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-    src="/assets/images-andrios/tomb-of-feast.png">
+    src="../../assets/images-andrios/tomb-of-feast.png">
 
 <p style="text-align: center;">A map of the Tomb of Feast. Blood pools the ground.</p>
 
