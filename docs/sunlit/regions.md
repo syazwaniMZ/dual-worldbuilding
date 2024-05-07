@@ -8,12 +8,17 @@ permalink: /docs/sunlit/regions
 ---
 # The World Map
 
-The world is split into 16 regions, with no clear borders as it shifts with the ecology, the waters, and seasons. Iris Engineers's nucleartrain tracks connect most of the regions.
-
-
-![Map of earth, with reduced landmass as tracked with the real world rising sea level in the further future.](/assets/images-sunlit/mapSunlit1.png "Earth, changed and different")
-
+<img 
+    style="display: block;
+    padding-top: 10px;
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;"
+    src="../../assets/images-sunlit/mapSunlit1.png"
+    alt="Map of earth, with reduced landmass as tracked with the real world rising sea level in the further future.">
 <p style="text-align: center;">Sunlit's Earth</p>
+
+The world is split into 16 regions, with no clear borders as it shifts with the ecology, the waters, and seasons. Iris Engineers's nucleartrain tracks connect most of the regions.
 
 # Regions
 
